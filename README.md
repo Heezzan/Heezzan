@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👀　[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeezzan&count_bg=%23ABB6C8&title_bg=%23DADADA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heezzan&hide=stars&count_private=true&title_color=5d7599)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Heezzan/Heezzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
